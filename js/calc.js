@@ -2,7 +2,8 @@
 let num1=$('#number1');
 let operater=$('#operation');
 let num2=$('#number2');
-function validate(num1,operater,num2){
-  
+function validate(operater,num1,num2){
+  if (operater == "+" || operater == "-"||operater=="*"||operater=="/"){
+    
+  }
 }
-function doMath(num1,operater,num2){}
