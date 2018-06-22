@@ -8,4 +8,4 @@ function validate(operater,num1,num2){
   else {answer(operater,num1,num2);
     }
   }
-}
+  else 
