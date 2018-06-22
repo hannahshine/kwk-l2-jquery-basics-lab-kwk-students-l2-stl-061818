@@ -4,6 +4,6 @@ let operater=$('#operation');
 let num2=$('#number2');
 function validate(operater,num1,num2){
   if (operater == "+" || operater == "-"||operater=="*"||operater=="/"){
-    
+  if (isNaN(num1)||num1===""
   }
 }
