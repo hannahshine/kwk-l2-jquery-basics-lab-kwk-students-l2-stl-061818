@@ -1,6 +1,6 @@
 //add your code here
-let input1="#number1";
-let input2="#operation";
-let input3="number2";
+let num1=$('#number1');
+let operater=$('#operation');
+let num2=$('#number12);
 
 function doMath(input1,input2,input3){
